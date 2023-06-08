@@ -1,0 +1,350 @@
+@import url('https://fonts.cdnfonts.com/s/29165/SFDistantGalaxy.woff');
+body{
+	background: linear-gradient(295.53deg, #363636 -6.16%, #000000 119.91%);
+}
+.h1 {
+	position: relative;
+	width: 649px;
+	height: 48px;
+	left: 57px;
+	top: 37px;
+
+	font-family: 'Xirod';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 48px;
+	/* identical to box height */
+
+	letter-spacing: 0.03em;
+
+	color: #ffff;
+}
+
+.h2{
+	/* identical to box height */
+	position: relative;
+	font-family: 'Xirod';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 48px;
+
+	letter-spacing: 0.03em;
+
+	color: #EF6522;
+}
+
+.A201{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 25px;
+	top: 160px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+.A202{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 54px;
+	top: 160px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+.A203{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 79px;
+	top: 160px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}.A204{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 105px;
+	top: 160px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+.A205{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 131px;
+	top: 160px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+
+.A206{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 25px;
+	top: 186px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+.A207{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 54px;
+	top: 186px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+.A208{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 79px;
+	top: 186px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}.A209{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 105px;
+	top: 186px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+.A210{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 131px;
+	top: 186px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+
+.A211{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 25px;
+	top: 212px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+.A212{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 54px;
+	top: 212px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+.A213{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 79px;
+	top: 212px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}.A214{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 105px;
+	top: 212px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+.A215{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 131px;
+	top: 212px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+
+.A216{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 25px;
+	top: 238px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+.A217{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 54px;
+	top: 238px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+.A218{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 79px;
+	top: 238px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}.A219{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 105px;
+	top: 238px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+.A220{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 131px;
+	top: 238px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+
+.A221{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 25px;
+	top: 264px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+.A222{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 54px;
+	top: 264px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+.A223{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 79px;
+	top: 264px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}.A224{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 105px;
+	top: 264px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+.A225{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 131px;
+	top: 264px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 24ch;
+}
+/*background 23*/
+.b23{
+	position: absolute;
+	width: 514px;
+	height: 288px;
+	left: 80px;
+	top: 390px;
+	font-family: 'SF Distant Galaxy';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 300px;
+	line-height: 300px;
+	text-align: center;
+	letter-spacing: 0.025em;
+	color: #ffff;
+}
+
+.events{
+
+	position: absolute;
+	width: 679px;
+	height: 107px;
+	left: 27px;
+	top: 499px;
+
+	font-family: 'SF Distant Galaxy';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 90px;
+	line-height: 90px;
+	text-align: center;
+	letter-spacing: 0.025em;
+	color: #FFFFFF;
+	text-shadow: 0px 100px 185px rgba(0, 0, 0, 0.28), 0px 41.7776px 77.2886px rgba(0, 0, 0, 0.201279), 0px 22.3363px 41.3222px rgba(0, 0, 0, 0.16691), 0px 12.5216px 23.1649px rgba(0, 0, 0, 0.14), 0px 6.6501px 12.3027px rgba(0, 0, 0, 0.11309), 0px 2.76726px 5.11942px rgba(0, 0, 0, 0.0787208);
+}
+
+.para{
+position: absolute;
+width: 586px;
+height: 32px;
+left: 80px;
+top: 662px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+}
+
+
+.img1{
+position: absolute;
+width: 574px;
+height: 405px;
+left: 720px;
+top: 201px;
+
+background: url(70905321_1442903602524294_2226481548411011072_n.jpg);
+filter: drop-shadow(0px 100px 80px rgba(0, 0, 0, 0.33)) drop-shadow(0px 41.7776px 33.4221px rgba(0, 0, 0, 0.237222)) drop-shadow(0px 22.3363px 17.869px rgba(0, 0, 0, 0.196715)) drop-shadow(0px 12.5216px 10.0172px rgba(0, 0, 0, 0.165)) drop-shadow(0px 6.6501px 5.32008px rgba(0, 0, 0, 0.133285)) drop-shadow(0px 2.76726px 2.21381px rgba(0, 0, 0, 0.092778));
+border-radius: 25px;
+}
+
+.img2{
+	position: absolute;
+width: 574px;
+height: 382px;
+left: 720px;
+top: 415px;
+
+background: url(74266351_1484196028395051_1825692693750087680_n.jpg);
+filter: drop-shadow(0px -134px 80px rgba(0, 0, 0, 0.4)) drop-shadow(0px -55.982px 33.4221px rgba(0, 0, 0, 0.287542)) drop-shadow(0px -29.9307px 17.869px rgba(0, 0, 0, 0.238443)) drop-shadow(0px -16.7789px 10.0172px rgba(0, 0, 0, 0.2)) drop-shadow(0px -8.91114px 5.32008px rgba(0, 0, 0, 0.161557)) drop-shadow(0px -3.70812px 2.21381px rgba(0, 0, 0, 0.112458));
+border-radius: 25px;
+}
+
+.img3{
+	position: absolute;
+width: 574px;
+height: 383px;
+left: 720px;
+top: 574px;
+
+background: url(74575061_1484195828395071_1867626632714387456_n.jpg);
+filter: drop-shadow(0px -49px 80px rgba(0, 0, 0, 0.4)) drop-shadow(0px -20.471px 33.4221px rgba(0, 0, 0, 0.287542)) drop-shadow(0px -10.9448px 17.869px rgba(0, 0, 0, 0.238443)) drop-shadow(0px -6.13556px 10.0172px rgba(0, 0, 0, 0.2)) drop-shadow(0px -3.25855px 5.32008px rgba(0, 0, 0, 0.161557)) drop-shadow(0px -1.35596px 2.21381px rgba(0, 0, 0, 0.112458));
+border-radius: 25px;
+}
